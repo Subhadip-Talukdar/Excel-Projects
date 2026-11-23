@@ -4,6 +4,32 @@ A collection of end-to-end exploratory data analysis (EDA), Pivot Table reportin
 
 ## Repository Structure
 
+```text
+excel/
+├── README.md
+├── 01-uber-trips-analysis/
+│   ├── README.md
+│   ├── RAW_uber_trips_dataset_50k.csv
+│   └── Pivot_Uber Dataset.xlsx
+├── 02-everlasting-earrings-sales/
+│   ├── README.md
+│   ├── RAW_everlasting_earrings_sales_300_rows.csv
+│   └── Pivot_everlasting_earrings_sales_300_rows.xlsx
+├── 03-income-tax-payroll-model/
+│   ├── README.md
+│   ├── IncomeTax_Advanced_Blank.xlsx
+│   └── Income Tax Solved.xlsx
+├── 04-indian-railways-fare-engine/
+│   ├── README.md
+│   ├── Indian_Railways_Lookup_Assignment.xlsx
+│   └── Indian_Railways_Lookup_Assignment_Solved.xlsx
+└── 05-excel-lookup-practice/
+    ├── README.md
+    ├── Lookup_Practice.xlsx
+    └── Copy of Classroom Assignment - Lookup All.xlsx
+
+## File Details
+
 | # | Project Folder | Focus Areas & Excel Techniques | Dataset Scale |
 | :--- | :--- | :--- | :--- |
 | 01 | [`01-uber-trips-analysis`](./01-uber-trips-analysis) | Feature engineering, conditional KPIs (`COUNTIFS`, `SUMIFS`, `AVERAGEIFS`), Pivot Tables | 50,000 rows |
