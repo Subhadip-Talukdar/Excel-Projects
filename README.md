@@ -17,10 +17,6 @@ A collection of end-to-end exploratory data analysis (EDA), Pivot Table reportin
 - **Lookup & Relational Modeling**: `XLOOKUP` (reverse search, dynamic arrays), `INDEX` + `MATCH` (two-way & multi-criteria), `VLOOKUP`, `HLOOKUP`.
 - **Business Intelligence & Reporting**: Multi-dimensional Pivot Tables, conditional aggregations (`SUMIFS`, `COUNTIFS`, `AVERAGEIFS`), automated tax and fare calculators.
 
-# Microsoft Excel Data Analytics & Financial Modeling Portfolio
-
-A structured collection of end-to-end exploratory data analysis (EDA), Pivot Table reporting, relational lookup modeling, and payroll automation projects built in Microsoft Excel.
-
 ## Repository Structure
 
 ```text
