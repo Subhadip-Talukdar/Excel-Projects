@@ -6,7 +6,7 @@ A collection of end-to-end exploratory data analysis (EDA), Pivot Table reportin
 
 | # | Project Folder | Focus Areas & Excel Techniques | Dataset Scale |
 | :--- | :--- | :--- | :--- |
-| 01 | [`01-uber-trips-analysis`] | Feature engineering, conditional KPIs (`COUNTIFS`, `SUMIFS`, `AVERAGEIFS`), Pivot Tables | 50,000 rows |
+| 01 | [`01-uber-trips-analysis`](./01-uber-trips-analysis) | Feature engineering, conditional KPIs (`COUNTIFS`, `SUMIFS`, `AVERAGEIFS`), Pivot Tables | 50,000 rows |
 | 02 | [`02-everlasting-earrings-sales`](./02-everlasting-earrings-sales) | Date standardization, multi-level hierarchical Pivot Tables, regional & channel slicing | 300 rows |
 | 03 | [`03-income-tax-payroll-model`](./03-income-tax-payroll-model) | Indian New Regime (FY 2024–25) progressive slab engine, Section 87A rebate, dynamic lookups | 12 employees + 18 tasks |
 | 04 | [`04-indian-railways-fare-engine`](./04-indian-railways-fare-engine) | Relational data stitching (`VLOOKUP`, `HLOOKUP`, `XLOOKUP`, `INDEX`+`MATCH`), automated PNR billing | 40 trains, 28 stations, 25 PNRs |
